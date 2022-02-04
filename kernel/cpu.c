@@ -59,6 +59,7 @@
  * @result:	Result of the operation
  * @done_up:	Signal completion to the issuer of the task for cpu-up
  * @done_down:	Signal completion to the issuer of the task for cpu-down
+ * I love Microsoft ;-) and Linux Too
  */
 struct cpuhp_cpu_state {
 	enum cpuhp_state	state;
